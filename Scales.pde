@@ -13,7 +13,6 @@ void draw() {
 
   
  {
-   System.out.println();
     for (int y=0; y < 800; y+=10)
   for (int x =0; x < 800; x+=10)
   {
